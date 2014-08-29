@@ -1,0 +1,625 @@
+ALGERIA                  |ALGERIA                  |745487.4681
+ALGERIA                  |ARGENTINA                |927906.2346
+ALGERIA                  |BRAZIL                   |748550.3222
+ALGERIA                  |CANADA                   |556513.0737
+ALGERIA                  |CHINA                    |812639.3168
+ALGERIA                  |EGYPT                    |730414.3744
+ALGERIA                  |ETHIOPIA                 |552123.3080
+ALGERIA                  |FRANCE                   |509109.4775
+ALGERIA                  |GERMANY                  |372008.1602
+ALGERIA                  |INDIA                    |906159.0512
+ALGERIA                  |INDONESIA                |734763.1853
+ALGERIA                  |IRAN                     |723737.7008
+ALGERIA                  |IRAQ                     |472611.7074
+ALGERIA                  |JAPAN                    |536164.1038
+ALGERIA                  |JORDAN                   |509607.6690
+ALGERIA                  |KENYA                    |724318.9668
+ALGERIA                  |MOROCCO                  |586411.7682
+ALGERIA                  |MOZAMBIQUE               |595185.0761
+ALGERIA                  |PERU                     |560634.3942
+ALGERIA                  |ROMANIA                  |893846.6948
+ALGERIA                  |RUSSIA                   |592772.1458
+ALGERIA                  |SAUDI ARABIA             |774968.3732
+ALGERIA                  |UNITED KINGDOM           |772873.8520
+ALGERIA                  |UNITED STATES            |490084.8619
+ALGERIA                  |VIETNAM                  |952882.2625
+ARGENTINA                |ALGERIA                  |798491.0300
+ARGENTINA                |ARGENTINA                |478372.1398
+ARGENTINA                |BRAZIL                   |1038085.0829
+ARGENTINA                |CANADA                   |696735.6032
+ARGENTINA                |CHINA                    |437397.6210
+ARGENTINA                |EGYPT                    |669432.7629
+ARGENTINA                |ETHIOPIA                 |739175.2321
+ARGENTINA                |FRANCE                   |505637.0382
+ARGENTINA                |GERMANY                  |366411.5075
+ARGENTINA                |INDIA                    |672143.7383
+ARGENTINA                |INDONESIA                |928206.3949
+ARGENTINA                |IRAN                     |1087562.2715
+ARGENTINA                |IRAQ                     |433938.9884
+ARGENTINA                |JAPAN                    |850434.3925
+ARGENTINA                |JORDAN                   |516161.8571
+ARGENTINA                |KENYA                    |765665.7106
+ARGENTINA                |MOROCCO                  |769376.7507
+ARGENTINA                |MOZAMBIQUE               |711791.3999
+ARGENTINA                |PERU                     |483287.0751
+ARGENTINA                |ROMANIA                  |593383.4494
+ARGENTINA                |RUSSIA                   |440500.4166
+ARGENTINA                |SAUDI ARABIA             |385336.0601
+ARGENTINA                |UNITED KINGDOM           |1029581.5861
+ARGENTINA                |UNITED STATES            |676030.8162
+ARGENTINA                |VIETNAM                  |925680.0424
+BRAZIL                   |ALGERIA                  |356585.5616
+BRAZIL                   |ARGENTINA                |240927.9332
+BRAZIL                   |BRAZIL                   |81834.9470
+BRAZIL                   |CANADA                   |337915.2264
+BRAZIL                   |CHINA                    |292351.1374
+BRAZIL                   |EGYPT                    |178765.0385
+BRAZIL                   |ETHIOPIA                 |221753.1743
+BRAZIL                   |FRANCE                   |19620.9024
+BRAZIL                   |GERMANY                  |194493.5688
+BRAZIL                   |INDIA                    |264524.3044
+BRAZIL                   |INDONESIA                |243460.8572
+BRAZIL                   |IRAN                     |36042.1866
+BRAZIL                   |IRAQ                     |112600.7904
+BRAZIL                   |JAPAN                    |192651.9577
+BRAZIL                   |JORDAN                   |352033.1173
+BRAZIL                   |KENYA                    |85481.4516
+BRAZIL                   |MOROCCO                  |198968.3086
+BRAZIL                   |MOZAMBIQUE               |191811.4774
+BRAZIL                   |PERU                     |159904.8121
+BRAZIL                   |ROMANIA                  |302351.5195
+BRAZIL                   |RUSSIA                   |266841.3034
+BRAZIL                   |SAUDI ARABIA             |150700.7006
+BRAZIL                   |UNITED KINGDOM           |130345.4376
+BRAZIL                   |UNITED STATES            |10626.2112
+BRAZIL                   |VIETNAM                  |339058.8930
+CANADA                   |ALGERIA                  |536091.8146
+CANADA                   |ARGENTINA                |498580.4558
+CANADA                   |BRAZIL                   |752768.2488
+CANADA                   |CANADA                   |553711.3631
+CANADA                   |CHINA                    |473536.0397
+CANADA                   |EGYPT                    |532163.6256
+CANADA                   |ETHIOPIA                 |405525.1672
+CANADA                   |FRANCE                   |258333.2702
+CANADA                   |GERMANY                  |255909.4441
+CANADA                   |INDIA                    |435397.0844
+CANADA                   |INDONESIA                |446895.6529
+CANADA                   |IRAN                     |497786.6042
+CANADA                   |IRAQ                     |472634.0297
+CANADA                   |JAPAN                    |563284.4602
+CANADA                   |JORDAN                   |470499.7457
+CANADA                   |KENYA                    |441309.2460
+CANADA                   |MOROCCO                  |445560.8743
+CANADA                   |MOZAMBIQUE               |494166.5501
+CANADA                   |PERU                     |190307.2541
+CANADA                   |ROMANIA                  |554474.7991
+CANADA                   |RUSSIA                   |385352.2276
+CANADA                   |SAUDI ARABIA             |213854.3863
+CANADA                   |UNITED KINGDOM           |388297.1364
+CANADA                   |UNITED STATES            |172766.3858
+CANADA                   |VIETNAM                  |640627.1506
+CHINA                    |ALGERIA                  |1111916.0653
+CHINA                    |ARGENTINA                |1112889.5198
+CHINA                    |BRAZIL                   |1553808.6598
+CHINA                    |CANADA                   |1807427.6133
+CHINA                    |CHINA                    |1056850.4122
+CHINA                    |EGYPT                    |1135566.4536
+CHINA                    |ETHIOPIA                 |746819.9550
+CHINA                    |FRANCE                   |802049.0132
+CHINA                    |GERMANY                  |690840.6403
+CHINA                    |INDIA                    |1275463.4595
+CHINA                    |INDONESIA                |1338703.2327
+CHINA                    |IRAN                     |1288515.5915
+CHINA                    |IRAQ                     |864934.3629
+CHINA                    |JAPAN                    |1175532.9656
+CHINA                    |JORDAN                   |951023.4023
+CHINA                    |KENYA                    |1032164.4066
+CHINA                    |MOROCCO                  |1271436.1843
+CHINA                    |MOZAMBIQUE               |1298117.8965
+CHINA                    |PERU                     |889102.4016
+CHINA                    |ROMANIA                  |1115255.1048
+CHINA                    |RUSSIA                   |834483.7601
+CHINA                    |SAUDI ARABIA             |1549808.0880
+CHINA                    |UNITED KINGDOM           |1008255.5371
+CHINA                    |UNITED STATES            |631850.6453
+CHINA                    |VIETNAM                  |1009185.4690
+EGYPT                    |ALGERIA                  |808754.0552
+EGYPT                    |ARGENTINA                |685747.6929
+EGYPT                    |BRAZIL                   |1230151.8472
+EGYPT                    |CANADA                   |1020427.7322
+EGYPT                    |CHINA                    |689574.1577
+EGYPT                    |EGYPT                    |1149358.8351
+EGYPT                    |ETHIOPIA                 |836655.3404
+EGYPT                    |FRANCE                   |310532.9225
+EGYPT                    |GERMANY                  |682433.7253
+EGYPT                    |INDIA                    |1209270.9656
+EGYPT                    |INDONESIA                |879613.8970
+EGYPT                    |IRAN                     |1178069.3190
+EGYPT                    |IRAQ                     |491025.3871
+EGYPT                    |JAPAN                    |954844.1211
+EGYPT                    |JORDAN                   |966276.5348
+EGYPT                    |KENYA                    |640402.4923
+EGYPT                    |MOROCCO                  |893879.4560
+EGYPT                    |MOZAMBIQUE               |798052.9911
+EGYPT                    |PERU                     |464514.0536
+EGYPT                    |ROMANIA                  |535063.4698
+EGYPT                    |RUSSIA                   |599750.3902
+EGYPT                    |SAUDI ARABIA             |669054.4160
+EGYPT                    |UNITED KINGDOM           |1236607.7158
+EGYPT                    |UNITED STATES            |373876.6741
+EGYPT                    |VIETNAM                  |542003.8298
+ETHIOPIA                 |ALGERIA                  |761497.6154
+ETHIOPIA                 |ARGENTINA                |925260.1471
+ETHIOPIA                 |BRAZIL                   |1039315.2743
+ETHIOPIA                 |CANADA                   |659383.9140
+ETHIOPIA                 |CHINA                    |478132.7124
+ETHIOPIA                 |EGYPT                    |599918.6834
+ETHIOPIA                 |ETHIOPIA                 |735800.1776
+ETHIOPIA                 |FRANCE                   |458153.8699
+ETHIOPIA                 |GERMANY                  |572167.6434
+ETHIOPIA                 |INDIA                    |695854.1306
+ETHIOPIA                 |INDONESIA                |373275.0443
+ETHIOPIA                 |IRAN                     |713408.5401
+ETHIOPIA                 |IRAQ                     |444142.7974
+ETHIOPIA                 |JAPAN                    |606006.7289
+ETHIOPIA                 |JORDAN                   |684361.5147
+ETHIOPIA                 |KENYA                    |592965.0091
+ETHIOPIA                 |MOROCCO                  |1171737.3445
+ETHIOPIA                 |MOZAMBIQUE               |291753.1002
+ETHIOPIA                 |PERU                     |451785.0725
+ETHIOPIA                 |ROMANIA                  |882365.9956
+ETHIOPIA                 |RUSSIA                   |665373.5395
+ETHIOPIA                 |SAUDI ARABIA             |456930.2663
+ETHIOPIA                 |UNITED KINGDOM           |811671.8363
+ETHIOPIA                 |UNITED STATES            |211112.6016
+ETHIOPIA                 |VIETNAM                  |557783.9857
+FRANCE                   |ALGERIA                  |391043.6374
+FRANCE                   |ARGENTINA                |298529.3231
+FRANCE                   |BRAZIL                   |306719.5121
+FRANCE                   |CANADA                   |107195.0138
+FRANCE                   |CHINA                    |34676.0344
+FRANCE                   |EGYPT                    |126886.1724
+FRANCE                   |ETHIOPIA                 |369298.5438
+FRANCE                   |FRANCE                   |120537.7759
+FRANCE                   |GERMANY                  |154119.1338
+FRANCE                   |INDIA                    |402614.6546
+FRANCE                   |INDONESIA                |151225.0646
+FRANCE                   |IRAN                     |133482.1664
+FRANCE                   |IRAQ                     |47904.6720
+FRANCE                   |JAPAN                    |116305.3136
+FRANCE                   |JORDAN                   |224845.0326
+FRANCE                   |KENYA                    |65611.8652
+FRANCE                   |MOROCCO                  |395345.7483
+FRANCE                   |MOZAMBIQUE               |128170.6804
+FRANCE                   |PERU                     |135930.2412
+FRANCE                   |ROMANIA                  |120762.3051
+FRANCE                   |RUSSIA                   |158927.5868
+FRANCE                   |SAUDI ARABIA             |393590.2978
+FRANCE                   |UNITED KINGDOM           |215839.7039
+FRANCE                   |UNITED STATES            |143636.9408
+FRANCE                   |VIETNAM                  |182130.0645
+GERMANY                  |ALGERIA                  |1260144.9876
+GERMANY                  |ARGENTINA                |856113.9544
+GERMANY                  |BRAZIL                   |1015720.2445
+GERMANY                  |CANADA                   |910101.5501
+GERMANY                  |CHINA                    |815506.7407
+GERMANY                  |EGYPT                    |1154877.2493
+GERMANY                  |ETHIOPIA                 |840541.7109
+GERMANY                  |FRANCE                   |746026.3327
+GERMANY                  |GERMANY                  |668695.4205
+GERMANY                  |INDIA                    |821323.3826
+GERMANY                  |INDONESIA                |994167.6937
+GERMANY                  |IRAN                     |1376554.7845
+GERMANY                  |IRAQ                     |772792.9965
+GERMANY                  |JAPAN                    |843453.6795
+GERMANY                  |JORDAN                   |1114012.5990
+GERMANY                  |KENYA                    |864842.2931
+GERMANY                  |MOROCCO                  |638777.2799
+GERMANY                  |MOZAMBIQUE               |848757.3658
+GERMANY                  |PERU                     |363825.1033
+GERMANY                  |ROMANIA                  |943810.6173
+GERMANY                  |RUSSIA                   |916272.2936
+GERMANY                  |SAUDI ARABIA             |1137912.2992
+GERMANY                  |UNITED KINGDOM           |1514641.4101
+GERMANY                  |UNITED STATES            |541039.0229
+GERMANY                  |VIETNAM                  |1020544.0622
+INDIA                    |ALGERIA                  |1503251.5650
+INDIA                    |ARGENTINA                |1023787.4888
+INDIA                    |BRAZIL                   |1311196.4637
+INDIA                    |CANADA                   |1043136.2172
+INDIA                    |CHINA                    |1269254.7136
+INDIA                    |EGYPT                    |1154658.9441
+INDIA                    |ETHIOPIA                 |1181068.5648
+INDIA                    |FRANCE                   |865018.5457
+INDIA                    |GERMANY                  |870159.3036
+INDIA                    |INDIA                    |1238981.4786
+INDIA                    |INDONESIA                |1025420.7776
+INDIA                    |IRAN                     |1221919.7928
+INDIA                    |IRAQ                     |620281.5531
+INDIA                    |JAPAN                    |859608.0379
+INDIA                    |JORDAN                   |811789.7566
+INDIA                    |KENYA                    |763203.5777
+INDIA                    |MOROCCO                  |1574571.1732
+INDIA                    |MOZAMBIQUE               |937929.8635
+INDIA                    |PERU                     |1033577.1646
+INDIA                    |ROMANIA                  |1183807.4543
+INDIA                    |RUSSIA                   |1162652.8648
+INDIA                    |SAUDI ARABIA             |1080277.3693
+INDIA                    |UNITED KINGDOM           |1288869.9192
+INDIA                    |UNITED STATES            |430717.6992
+INDIA                    |VIETNAM                  |1576530.5356
+INDONESIA                |ALGERIA                  |1276024.0965
+INDONESIA                |ARGENTINA                |1320965.6089
+INDONESIA                |BRAZIL                   |959114.5307
+INDONESIA                |CANADA                   |455804.5984
+INDONESIA                |CHINA                    |1056739.0974
+INDONESIA                |EGYPT                    |1035177.4086
+INDONESIA                |ETHIOPIA                 |909664.8728
+INDONESIA                |FRANCE                   |607208.8550
+INDONESIA                |GERMANY                  |569805.0151
+INDONESIA                |INDIA                    |1101988.3331
+INDONESIA                |INDONESIA                |1284895.1770
+INDONESIA                |IRAN                     |896091.7560
+INDONESIA                |IRAQ                     |618104.9331
+INDONESIA                |JAPAN                    |967358.5980
+INDONESIA                |JORDAN                   |864588.0866
+INDONESIA                |KENYA                    |852252.1683
+INDONESIA                |MOROCCO                  |1096983.7040
+INDONESIA                |MOZAMBIQUE               |762230.5112
+INDONESIA                |PERU                     |810967.2683
+INDONESIA                |ROMANIA                  |870492.0875
+INDONESIA                |RUSSIA                   |698220.4621
+INDONESIA                |SAUDI ARABIA             |1056618.2618
+INDONESIA                |UNITED KINGDOM           |1394919.6256
+INDONESIA                |UNITED STATES            |309113.7486
+INDONESIA                |VIETNAM                  |756643.8154
+IRAN                     |ALGERIA                  |516749.7994
+IRAN                     |ARGENTINA                |424807.8031
+IRAN                     |BRAZIL                   |753341.6497
+IRAN                     |CANADA                   |448657.0154
+IRAN                     |CHINA                    |519873.5750
+IRAN                     |EGYPT                    |809322.0688
+IRAN                     |ETHIOPIA                 |210164.2098
+IRAN                     |FRANCE                   |325633.2937
+IRAN                     |GERMANY                  |352091.1177
+IRAN                     |INDIA                    |427100.4872
+IRAN                     |INDONESIA                |389026.2920
+IRAN                     |IRAN                     |527219.2963
+IRAN                     |IRAQ                     |231162.3911
+IRAN                     |JAPAN                    |291729.6540
+IRAN                     |JORDAN                   |462132.3434
+IRAN                     |KENYA                    |540516.5337
+IRAN                     |MOROCCO                  |571608.2681
+IRAN                     |MOZAMBIQUE               |664557.1232
+IRAN                     |PERU                     |163714.4395
+IRAN                     |ROMANIA                  |648552.2253
+IRAN                     |RUSSIA                   |332525.8679
+IRAN                     |SAUDI ARABIA             |530429.2825
+IRAN                     |UNITED KINGDOM           |628358.7506
+IRAN                     |UNITED STATES            |215863.4403
+IRAN                     |VIETNAM                  |561746.0260
+IRAQ                     |ALGERIA                  |242236.9833
+IRAQ                     |ARGENTINA                |231522.2502
+IRAQ                     |BRAZIL                   |112639.7400
+IRAQ                     |CANADA                   |260950.9453
+IRAQ                     |CHINA                    |121744.0808
+IRAQ                     |EGYPT                    |132025.5917
+IRAQ                     |ETHIOPIA                 |161766.1904
+IRAQ                     |FRANCE                   |120037.9996
+IRAQ                     |GERMANY                  |197984.9083
+IRAQ                     |INDIA                    |255715.4929
+IRAQ                     |INDONESIA                |245702.1105
+IRAQ                     |IRAN                     |183879.6147
+IRAQ                     |IRAQ                     |71393.7408
+IRAQ                     |JAPAN                    |243979.1203
+IRAQ                     |JORDAN                   |498223.7042
+IRAQ                     |KENYA                    |200792.1640
+IRAQ                     |MOROCCO                  |333541.5008
+IRAQ                     |MOZAMBIQUE               |122849.1530
+IRAQ                     |PERU                     |185965.2025
+IRAQ                     |ROMANIA                  |207059.2365
+IRAQ                     |RUSSIA                   |123570.0380
+IRAQ                     |SAUDI ARABIA             |184579.8364
+IRAQ                     |UNITED KINGDOM           |430194.7684
+IRAQ                     |UNITED STATES            |67402.8908
+IRAQ                     |VIETNAM                  |156865.7265
+JAPAN                    |ALGERIA                  |638452.4219
+JAPAN                    |ARGENTINA                |481138.7797
+JAPAN                    |BRAZIL                   |571081.1967
+JAPAN                    |CANADA                   |603358.1460
+JAPAN                    |CHINA                    |403526.8793
+JAPAN                    |EGYPT                    |737506.5458
+JAPAN                    |ETHIOPIA                 |627925.7465
+JAPAN                    |FRANCE                   |204414.2221
+JAPAN                    |GERMANY                  |312632.9018
+JAPAN                    |INDIA                    |822020.7549
+JAPAN                    |INDONESIA                |394240.5612
+JAPAN                    |IRAN                     |776782.1310
+JAPAN                    |IRAQ                     |305591.1661
+JAPAN                    |JAPAN                    |368193.9798
+JAPAN                    |JORDAN                   |793036.6201
+JAPAN                    |KENYA                    |370038.2590
+JAPAN                    |MOROCCO                  |364595.4980
+JAPAN                    |MOZAMBIQUE               |243866.2699
+JAPAN                    |PERU                     |443571.1304
+JAPAN                    |ROMANIA                  |483980.1310
+JAPAN                    |RUSSIA                   |596006.0601
+JAPAN                    |SAUDI ARABIA             |270523.9341
+JAPAN                    |UNITED KINGDOM           |181782.8272
+JAPAN                    |UNITED STATES            |373364.2936
+JAPAN                    |VIETNAM                  |322619.9910
+JORDAN                   |ALGERIA                  |164476.7548
+JORDAN                   |ARGENTINA                |164868.7351
+JORDAN                   |BRAZIL                   |314600.4693
+JORDAN                   |CANADA                   |249438.7490
+JORDAN                   |CHINA                    |199580.3952
+JORDAN                   |EGYPT                    |72424.9268
+JORDAN                   |ETHIOPIA                 |152420.5321
+JORDAN                   |FRANCE                   |53719.7564
+JORDAN                   |GERMANY                  |209883.5159
+JORDAN                   |INDIA                    |212985.9125
+JORDAN                   |INDONESIA                |44177.4768
+JORDAN                   |IRAN                     |182492.3654
+JORDAN                   |IRAQ                     |348037.5272
+JORDAN                   |JAPAN                    |133851.5870
+JORDAN                   |JORDAN                   |178304.9103
+JORDAN                   |KENYA                    |255689.3990
+JORDAN                   |MOROCCO                  |258132.7508
+JORDAN                   |MOZAMBIQUE               |204227.0964
+JORDAN                   |PERU                     |245783.3705
+JORDAN                   |ROMANIA                  |245617.5012
+JORDAN                   |RUSSIA                   |75898.7816
+JORDAN                   |SAUDI ARABIA             |220717.9669
+JORDAN                   |UNITED KINGDOM           |326280.7221
+JORDAN                   |UNITED STATES            |78850.8668
+JORDAN                   |VIETNAM                  |205997.5016
+KENYA                    |ALGERIA                  |1577493.7072
+KENYA                    |ARGENTINA                |933820.6610
+KENYA                    |BRAZIL                   |1055114.2510
+KENYA                    |CANADA                   |1040799.6941
+KENYA                    |CHINA                    |877779.1644
+KENYA                    |EGYPT                    |1045358.2922
+KENYA                    |ETHIOPIA                 |1335430.7983
+KENYA                    |FRANCE                   |534954.2880
+KENYA                    |GERMANY                  |1163929.9200
+KENYA                    |INDIA                    |822424.3845
+KENYA                    |INDONESIA                |1150410.2779
+KENYA                    |IRAN                     |1172423.0079
+KENYA                    |IRAQ                     |717603.5375
+KENYA                    |JAPAN                    |1023784.1247
+KENYA                    |JORDAN                   |983011.0820
+KENYA                    |KENYA                    |910208.5289
+KENYA                    |MOROCCO                  |708482.7544
+KENYA                    |MOZAMBIQUE               |718817.4340
+KENYA                    |PERU                     |671311.0701
+KENYA                    |ROMANIA                  |1181104.3469
+KENYA                    |RUSSIA                   |1064480.0835
+KENYA                    |SAUDI ARABIA             |1073242.1523
+KENYA                    |UNITED KINGDOM           |1333214.5032
+KENYA                    |UNITED STATES            |709677.9609
+KENYA                    |VIETNAM                  |1197767.2105
+MOROCCO                  |ALGERIA                  |513583.4604
+MOROCCO                  |ARGENTINA                |532067.4161
+MOROCCO                  |BRAZIL                   |865807.5733
+MOROCCO                  |CANADA                   |207367.1072
+MOROCCO                  |CHINA                    |411963.4330
+MOROCCO                  |EGYPT                    |511648.5549
+MOROCCO                  |ETHIOPIA                 |372199.6635
+MOROCCO                  |FRANCE                   |313543.5935
+MOROCCO                  |GERMANY                  |465615.7040
+MOROCCO                  |INDIA                    |533116.7583
+MOROCCO                  |INDONESIA                |404261.7558
+MOROCCO                  |IRAN                     |275458.3970
+MOROCCO                  |IRAQ                     |108948.4614
+MOROCCO                  |JAPAN                    |279618.0985
+MOROCCO                  |JORDAN                   |588544.0891
+MOROCCO                  |KENYA                    |582297.0310
+MOROCCO                  |MOROCCO                  |422662.7249
+MOROCCO                  |MOZAMBIQUE               |541063.4691
+MOROCCO                  |PERU                     |342513.8328
+MOROCCO                  |ROMANIA                  |659430.8187
+MOROCCO                  |RUSSIA                   |529872.6585
+MOROCCO                  |SAUDI ARABIA             |190799.5441
+MOROCCO                  |UNITED KINGDOM           |355050.1847
+MOROCCO                  |UNITED STATES            |19531.1032
+MOROCCO                  |VIETNAM                  |322566.6498
+MOZAMBIQUE               |ALGERIA                  |2005843.3463
+MOZAMBIQUE               |ARGENTINA                |1002730.3113
+MOZAMBIQUE               |BRAZIL                   |1481781.9530
+MOZAMBIQUE               |CANADA                   |1079128.8312
+MOZAMBIQUE               |CHINA                    |1157082.4188
+MOZAMBIQUE               |EGYPT                    |1738823.3400
+MOZAMBIQUE               |ETHIOPIA                 |1643387.2561
+MOZAMBIQUE               |FRANCE                   |614299.5315
+MOZAMBIQUE               |GERMANY                  |1277981.1787
+MOZAMBIQUE               |INDIA                    |1634718.2374
+MOZAMBIQUE               |INDONESIA                |1377713.8566
+MOZAMBIQUE               |IRAN                     |1652993.5596
+MOZAMBIQUE               |IRAQ                     |835163.6382
+MOZAMBIQUE               |JAPAN                    |1194448.2772
+MOZAMBIQUE               |JORDAN                   |1468236.1750
+MOZAMBIQUE               |KENYA                    |968351.9390
+MOZAMBIQUE               |MOROCCO                  |1273234.3039
+MOZAMBIQUE               |MOZAMBIQUE               |1401783.8586
+MOZAMBIQUE               |PERU                     |839053.9600
+MOZAMBIQUE               |ROMANIA                  |1587807.9455
+MOZAMBIQUE               |RUSSIA                   |1110476.8537
+MOZAMBIQUE               |SAUDI ARABIA             |1208642.6882
+MOZAMBIQUE               |UNITED KINGDOM           |1616395.5927
+MOZAMBIQUE               |UNITED STATES            |820137.5876
+MOZAMBIQUE               |VIETNAM                  |1387115.9801
+PERU                     |ALGERIA                  |1319098.4030
+PERU                     |ARGENTINA                |810968.3065
+PERU                     |BRAZIL                   |1099129.0282
+PERU                     |CANADA                   |693897.2480
+PERU                     |CHINA                    |727649.3804
+PERU                     |EGYPT                    |1067461.3647
+PERU                     |ETHIOPIA                 |1078222.0360
+PERU                     |FRANCE                   |486083.9215
+PERU                     |GERMANY                  |807045.9353
+PERU                     |INDIA                    |792916.2039
+PERU                     |INDONESIA                |1142546.1389
+PERU                     |IRAN                     |966993.0003
+PERU                     |IRAQ                     |585720.3362
+PERU                     |JAPAN                    |971118.2288
+PERU                     |JORDAN                   |1015101.4988
+PERU                     |KENYA                    |814928.0437
+PERU                     |MOROCCO                  |979839.9856
+PERU                     |MOZAMBIQUE               |784990.8767
+PERU                     |PERU                     |553665.3041
+PERU                     |ROMANIA                  |1160005.3288
+PERU                     |RUSSIA                   |803341.9709
+PERU                     |SAUDI ARABIA             |893185.0836
+PERU                     |UNITED KINGDOM           |1089608.0034
+PERU                     |UNITED STATES            |912502.7529
+PERU                     |VIETNAM                  |952606.5445
+ROMANIA                  |ALGERIA                  |884793.4890
+ROMANIA                  |ARGENTINA                |510951.4438
+ROMANIA                  |BRAZIL                   |682193.4024
+ROMANIA                  |CANADA                   |466120.4594
+ROMANIA                  |CHINA                    |789945.2216
+ROMANIA                  |EGYPT                    |721532.6900
+ROMANIA                  |ETHIOPIA                 |392452.3266
+ROMANIA                  |FRANCE                   |437710.0403
+ROMANIA                  |GERMANY                  |439322.2825
+ROMANIA                  |INDIA                    |469584.0454
+ROMANIA                  |INDONESIA                |657577.4334
+ROMANIA                  |IRAN                     |997289.1310
+ROMANIA                  |IRAQ                     |328494.4461
+ROMANIA                  |JAPAN                    |914949.9748
+ROMANIA                  |JORDAN                   |467934.1445
+ROMANIA                  |KENYA                    |391057.9619
+ROMANIA                  |MOROCCO                  |752378.0754
+ROMANIA                  |MOZAMBIQUE               |596109.4234
+ROMANIA                  |PERU                     |443321.6866
+ROMANIA                  |ROMANIA                  |908776.5755
+ROMANIA                  |RUSSIA                   |428037.7620
+ROMANIA                  |SAUDI ARABIA             |724974.7347
+ROMANIA                  |UNITED KINGDOM           |477892.3823
+ROMANIA                  |UNITED STATES            |407674.8263
+ROMANIA                  |VIETNAM                  |461401.4424
+RUSSIA                   |ALGERIA                  |1569165.8261
+RUSSIA                   |ARGENTINA                |1401238.1220
+RUSSIA                   |BRAZIL                   |1269343.2134
+RUSSIA                   |CANADA                   |1017983.0790
+RUSSIA                   |CHINA                    |1478294.0100
+RUSSIA                   |EGYPT                    |1333427.4582
+RUSSIA                   |ETHIOPIA                 |1049417.4370
+RUSSIA                   |FRANCE                   |588116.6498
+RUSSIA                   |GERMANY                  |819371.7337
+RUSSIA                   |INDIA                    |1573453.3303
+RUSSIA                   |INDONESIA                |1152285.2564
+RUSSIA                   |IRAN                     |1807098.7563
+RUSSIA                   |IRAQ                     |930782.9853
+RUSSIA                   |JAPAN                    |1042017.0496
+RUSSIA                   |JORDAN                   |880011.5017
+RUSSIA                   |KENYA                    |683139.6604
+RUSSIA                   |MOROCCO                  |1543868.5371
+RUSSIA                   |MOZAMBIQUE               |1169743.2522
+RUSSIA                   |PERU                     |671959.1195
+RUSSIA                   |ROMANIA                  |729447.3961
+RUSSIA                   |RUSSIA                   |1189319.7169
+RUSSIA                   |SAUDI ARABIA             |719562.0657
+RUSSIA                   |UNITED KINGDOM           |1237113.7992
+RUSSIA                   |UNITED STATES            |594177.6084
+RUSSIA                   |VIETNAM                  |704825.9301
+SAUDI ARABIA             |ALGERIA                  |171737.7282
+SAUDI ARABIA             |ARGENTINA                |378139.3826
+SAUDI ARABIA             |BRAZIL                   |187515.4718
+SAUDI ARABIA             |CANADA                   |486096.7253
+SAUDI ARABIA             |CHINA                    |383963.5031
+SAUDI ARABIA             |EGYPT                    |246196.6430
+SAUDI ARABIA             |ETHIOPIA                 |292363.4948
+SAUDI ARABIA             |FRANCE                   |100766.9769
+SAUDI ARABIA             |GERMANY                  |138129.3553
+SAUDI ARABIA             |INDIA                    |141328.8949
+SAUDI ARABIA             |INDONESIA                |258310.5766
+SAUDI ARABIA             |IRAN                     |241318.8616
+SAUDI ARABIA             |IRAQ                     |197871.4125
+SAUDI ARABIA             |JAPAN                    |140420.2552
+SAUDI ARABIA             |JORDAN                   |480074.8177
+SAUDI ARABIA             |KENYA                    |176769.9947
+SAUDI ARABIA             |MOROCCO                  |287556.2050
+SAUDI ARABIA             |MOZAMBIQUE               |178060.6593
+SAUDI ARABIA             |PERU                     |115755.6052
+SAUDI ARABIA             |ROMANIA                  |487706.2264
+SAUDI ARABIA             |RUSSIA                   |220299.0120
+SAUDI ARABIA             |SAUDI ARABIA             |211167.8601
+SAUDI ARABIA             |UNITED KINGDOM           |104579.6196
+SAUDI ARABIA             |UNITED STATES            |178399.8494
+SAUDI ARABIA             |VIETNAM                  |369300.7788
+UNITED KINGDOM           |ALGERIA                  |1012819.3037
+UNITED KINGDOM           |ARGENTINA                |708414.8807
+UNITED KINGDOM           |BRAZIL                   |1115712.7031
+UNITED KINGDOM           |CANADA                   |712269.4677
+UNITED KINGDOM           |CHINA                    |456530.6540
+UNITED KINGDOM           |EGYPT                    |1059705.3161
+UNITED KINGDOM           |ETHIOPIA                 |531737.7189
+UNITED KINGDOM           |FRANCE                   |479180.1061
+UNITED KINGDOM           |GERMANY                  |388432.8675
+UNITED KINGDOM           |INDIA                    |887853.0018
+UNITED KINGDOM           |INDONESIA                |552484.6036
+UNITED KINGDOM           |IRAN                     |937153.7307
+UNITED KINGDOM           |IRAQ                     |299125.8875
+UNITED KINGDOM           |JAPAN                    |1123090.5508
+UNITED KINGDOM           |JORDAN                   |1003817.1214
+UNITED KINGDOM           |KENYA                    |444214.4796
+UNITED KINGDOM           |MOROCCO                  |878125.2615
+UNITED KINGDOM           |MOZAMBIQUE               |638207.6428
+UNITED KINGDOM           |PERU                     |343625.3158
+UNITED KINGDOM           |ROMANIA                  |1049142.9672
+UNITED KINGDOM           |RUSSIA                   |453161.6858
+UNITED KINGDOM           |SAUDI ARABIA             |764429.1833
+UNITED KINGDOM           |UNITED KINGDOM           |544497.4639
+UNITED KINGDOM           |UNITED STATES            |261466.0502
+UNITED KINGDOM           |VIETNAM                  |684625.8102
+UNITED STATES            |ALGERIA                  |1717450.5878
+UNITED STATES            |ARGENTINA                |1231991.2870
+UNITED STATES            |BRAZIL                   |1059331.7738
+UNITED STATES            |CANADA                   |1661001.4363
+UNITED STATES            |CHINA                    |986109.3448
+UNITED STATES            |EGYPT                    |1107946.5301
+UNITED STATES            |ETHIOPIA                 |1508446.8178
+UNITED STATES            |FRANCE                   |853800.4433
+UNITED STATES            |GERMANY                  |1267333.3845
+UNITED STATES            |INDIA                    |1661624.4386
+UNITED STATES            |INDONESIA                |1627108.2485
+UNITED STATES            |IRAN                     |1789894.7438
+UNITED STATES            |IRAQ                     |948801.9238
+UNITED STATES            |JAPAN                    |1771964.3664
+UNITED STATES            |JORDAN                   |1602316.5737
+UNITED STATES            |KENYA                    |1431834.3605
+UNITED STATES            |MOROCCO                  |1429827.6903
+UNITED STATES            |MOZAMBIQUE               |1239227.6626
+UNITED STATES            |PERU                     |805274.3162
+UNITED STATES            |ROMANIA                  |1696967.4744
+UNITED STATES            |RUSSIA                   |1143633.2926
+UNITED STATES            |SAUDI ARABIA             |810969.1233
+UNITED STATES            |UNITED KINGDOM           |1349374.1187
+UNITED STATES            |UNITED STATES            |376334.3476
+UNITED STATES            |VIETNAM                  |1374548.7076
+VIETNAM                  |ALGERIA                  |1328661.8419
+VIETNAM                  |ARGENTINA                |554845.6822
+VIETNAM                  |BRAZIL                   |1130404.4398
+VIETNAM                  |CANADA                   |1279866.9351
+VIETNAM                  |CHINA                    |838927.6232
+VIETNAM                  |EGYPT                    |1054734.1189
+VIETNAM                  |ETHIOPIA                 |1064385.5838
+VIETNAM                  |FRANCE                   |483557.8609
+VIETNAM                  |GERMANY                  |474528.9755
+VIETNAM                  |INDIA                    |650668.2369
+VIETNAM                  |INDONESIA                |978979.5124
+VIETNAM                  |IRAN                     |988001.4452
+VIETNAM                  |IRAQ                     |627218.9387
+VIETNAM                  |JAPAN                    |1002405.1778
+VIETNAM                  |JORDAN                   |668542.6268
+VIETNAM                  |KENYA                    |657537.4349
+VIETNAM                  |MOROCCO                  |1372906.2707
+VIETNAM                  |MOZAMBIQUE               |912859.5436
+VIETNAM                  |PERU                     |278802.3476
+VIETNAM                  |ROMANIA                  |985660.3604
+VIETNAM                  |RUSSIA                   |1067197.6778
+VIETNAM                  |SAUDI ARABIA             |552357.3214
+VIETNAM                  |UNITED KINGDOM           |1181124.1459
+VIETNAM                  |UNITED STATES            |422039.4281
+VIETNAM                  |VIETNAM                  |662304.4269
